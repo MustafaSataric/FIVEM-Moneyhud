@@ -1,0 +1,2 @@
+# FIVEM Moneyhud
+ 
